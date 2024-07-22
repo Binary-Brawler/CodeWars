@@ -1,4 +1,4 @@
-(-
+{-
 
 Given two integers a and b, which can be positive or negative, 
 find the sum of all the integers between and including them and return it.
@@ -13,7 +13,7 @@ Examples (a, b) --> output (explanation)
  (-1, 0) --> -1 (-1 + 0 = -1)
  (-1, 2) --> 2 (-1 + 0 + 1 + 2 = 2)
 
--)
+-}
 
 module GetSum where
 
